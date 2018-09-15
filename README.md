@@ -1,0 +1,1 @@
+# MNIST-Classifying-Hand-written-Digits-Using-Bernoulli-Based-Pixel-Modeling-Bayes-Theorem
